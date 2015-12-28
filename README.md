@@ -14,5 +14,5 @@ In this project you will write a program that displays a design similar to the O
 
 Samples of Student Work
 -----------------------
-[http://isabel98b.github.io/OlympicRings](Isabel)
-[http://bartalottia16.github.io/OlympicRings](Adrianna)
+[Isabel](http://isabel98b.github.io/OlympicRings)
+[Adrianna](http://bartalottia16.github.io/OlympicRings)
