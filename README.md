@@ -12,4 +12,7 @@ In this project you will write a program that displays a design similar to the O
 *	`strokeWeight()`
 *	Optional `smooth()`  
 
-Don't hesitate to ask for help if your aren't sure how something is suppose to work.
+Samples of Student Work
+-----------------------
+[http://isabel98b.github.io/OlympicRings](Isabel)
+[http://bartalottia16.github.io/OlympicRings](Adrianna)
