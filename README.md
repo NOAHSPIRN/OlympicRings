@@ -1,8 +1,6 @@
 Olympic Rings
 =============
 
-![picture of olympic rings](OlympicRings.JPG)  
-
 In this project you will write a program that displays a design similar to the Olympic Rings. Your program will have about 13 lines of code and use the following functions (some more than once):
 
 *	`ellipse()`  
