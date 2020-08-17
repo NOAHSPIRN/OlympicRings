@@ -13,7 +13,7 @@ In this project you will write a program that displays a design similar to the O
 Common Mistakes
 -----------------------
 * Make sure you set the `stroke` *before* you draw the `ellipse`
-* Once you call `noFill()`, from then on, all ellipses will be unfilled. Don't call it more than once.
+* Once you call `noFill()`, from then on, all ellipses will be unfilled. Don't call it more than once
 * Same with `strokeWeight()`. Once you set the thickness of the outline it will remain unchanged
 
 Extensions
