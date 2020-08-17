@@ -16,7 +16,7 @@ Common Mistakes
 
 Extensions
 -----------------------
-If you have extra time, you might see if you can figure out how to use the `arc` function to make interlocking rings
+If you have extra time, you might see if you can figure out how to use the `arc` function instead of `ellipse` to make interlocking rings
 
 Samples of Student Work
 -----------------------
