@@ -3,7 +3,7 @@
 Olympic Rings
 =============
 
-In this project you will write a program that displays a design similar to the Olympic Rings. Your program will use the following functions (some more than once):
+In this project you will write a program that displays a design similar to the (Olympic Rings)[https://www.olympic.org/olympic-rings]. Your program will use the following functions (some more than once):
 
 *	`ellipse()`  
 *	`noFill()`  
