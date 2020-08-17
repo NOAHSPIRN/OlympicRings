@@ -1,8 +1,6 @@
-![](https://stillmed.olympic.org/media/Images/OlympicOrg/IOC/The_Organisation/The-Olympic-Rings/Olympic_rings_TM_c_IOC_All_rights_reserved_1.jpg?interpolation=lanczos-none&resize=700:*)   
-
 Olympic Rings
 =============
-
+![](https://stillmed.olympic.org/media/Images/OlympicOrg/IOC/The_Organisation/The-Olympic-Rings/Olympic_rings_TM_c_IOC_All_rights_reserved_1.jpg?interpolation=lanczos-none&resize=700:*)   
 In this project you will write a program that displays a design similar to the [Olympic Rings](https://www.olympic.org/olympic-rings). Your program will use the following functions (some more than once):
 
 *	`ellipse()`  
