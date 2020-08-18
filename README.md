@@ -20,5 +20,6 @@ If you have extra time, you might see if you can figure out how to use the `arc`
 
 Samples of Student Work
 -----------------------
+[Benjamin](https://studio.code.org/projects/gamelab/XN1NsUwt7Pzzibjufkw0GJsRsGEB9pBq501i-XV3L4s)   
 [Isabel](http://isabel98b.github.io/OlympicRings)   
 [Adrianna](http://bartalottia16.github.io/OlympicRings)   
