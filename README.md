@@ -16,10 +16,11 @@ Common Mistakes
 
 Extensions
 -----------------------
-If you have extra time, you might see if you can figure out how to use the `arc` function instead of `ellipse` to make interlocking rings
+If you have extra time, you might see if you can figure out how to use the `arc` function instead of `ellipse` to make interlocking rings. Feel free to add other Olympic elements to your design.
 
 Samples of Student Work
 -----------------------
+[Ken](https://studio.code.org/projects/gamelab/gBbNMY3k_XOmYP8b7W0cjePtJW_5xPOU8NImHPWRoOc)   
 [Benjamin](https://studio.code.org/projects/gamelab/XN1NsUwt7Pzzibjufkw0GJsRsGEB9pBq501i-XV3L4s)   
 [Isabel](http://isabel98b.github.io/OlympicRings)   
 [Adrianna](http://bartalottia16.github.io/OlympicRings)   
