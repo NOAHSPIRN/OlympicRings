@@ -1,7 +1,7 @@
 Olympic Rings
 =============
 ![](https://stillmed.olympic.org/media/Images/OlympicOrg/IOC/The_Organisation/The-Olympic-Rings/Olympic_rings_TM_c_IOC_All_rights_reserved_1.jpg?interpolation=lanczos-none&resize=700:*)   
-In this project you will write a program using [code.org game lab](https://code.org/educate/gamelab) that displays a design similar to the [Olympic Rings](https://www.olympic.org/olympic-rings). You may find slides 19 - 32 of the [Computer Programming A slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful. Your program will use the following functions (some more than once):
+In this project you will write a program using [code.org game lab](https://code.org/educate/gamelab) that displays a design similar to the [Olympic Rings](https://www.olympic.org/olympic-rings). You may find slides 19 - 32 of the [Computer Programming A slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful. Your finished program should have at least 5 different rings and use the following functions (some more than once):
 
 *	`ellipse()`  
 *	`noFill()`  
