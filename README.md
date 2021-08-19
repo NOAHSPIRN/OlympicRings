@@ -20,6 +20,11 @@ If you have extra time, you might see if you can figure out how to use the `arc`
 
 Samples of Student Work
 -----------------------
+[Kahlo](https://studio.code.org/projects/gamelab/GFbrVuHOypisqa9kKuupsB6pSBK5WnRkoyn_uEUQWyo)   
+[Pansy](https://studio.code.org/projects/gamelab/J8IT77JOYq2Jtdlp9pCAsICWenB2rR06u29TCbPMXyA)   
+[Calista](https://studio.code.org/projects/gamelab/LU68jLthk4PEPsVg1312Og8mXrL9Dp1ndIQ9uNcIi2Y)   
+[Xander](https://studio.code.org/projects/gamelab/GFbrVuHOypisqa9kKuupsB6pSBK5WnRkoyn_uEUQWyo)   
+[Justin](https://studio.code.org/projects/gamelab/6uesv0M3cPMI4HXjDycbbfudowKVx5JQJawowSpKuEw)   
 [Tiffany](https://studio.code.org/projects/gamelab/oepNECdrZn2ZG7iPsOAcR0nFT6E5OAPxsAOYYewkqL4)   
 [Ken](https://studio.code.org/projects/gamelab/gBbNMY3k_XOmYP8b7W0cjePtJW_5xPOU8NImHPWRoOc)   
 [Benjamin](https://studio.code.org/projects/gamelab/XN1NsUwt7Pzzibjufkw0GJsRsGEB9pBq501i-XV3L4s)   
